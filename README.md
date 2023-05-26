@@ -8,10 +8,15 @@ There is also a part to connect with ProtoPie
 The different animations are put into different functions. Every function has a couple of arguments.
 
 on(int increment, int brightness0, int color)
+
 off(int increment, int color)
+
 pulse(int repeat, int increment, int color)
+
 sonar(int repeat, int pause, int color)
+
 locate(int repeat, int pause, int opening)
+
 
 locatecolor(int repeat, int pause, int opening, int color)*
 *This Function does not work yet.
