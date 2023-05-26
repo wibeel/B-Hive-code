@@ -40,3 +40,13 @@ This is the control app used to send commands to the B-Hive and the app.
 
 b-hive nieuw.pie 
 This is the actual app, to be opened on the phone of the user.
+
+
+
+Some pictures and videos:
+![IMG_20221231_102528](https://github.com/wibeel/B-Hive-code/assets/125655641/5f4e09c3-970f-4ae1-b46b-60173c3e04ce)
+
+https://github.com/wibeel/B-Hive-code/assets/125655641/df5d643e-796e-4aac-bd45-9e44f262a641
+
+
+
