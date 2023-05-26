@@ -25,6 +25,7 @@ Colors can be added in the array in row 381.
 
 There is also a pauze() function, that divides a delay into very small delays of 10ms. After each small delay, the arduino reads in the sensors or messages sent from protopie. 
 
+
 Currently, the code starts with a dim white light. When the user wants to connect with bluetooth, a blue sonar effect starts. If the bluetoothconnection was successfull, a green pulse starts. 
 Now we enter the loop(). It starts off with a dim white light, whilst waiting for a message from Protopie. As soon as the message with the tracker location has been received, the next animation starts. This animation points towards the received location.
 
