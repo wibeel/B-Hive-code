@@ -28,8 +28,8 @@ Now we enter the loop(). It starts off with a dim white light, whilst waiting fo
 
 
 **PROTOPIE** 
-test controle.pie
+test controle.pie 
 This is the control app used to send commands to the B-Hive and the app.
 
-b-hive nieuw.pie
+b-hive nieuw.pie 
 This is the actual app, to be opened on the phone of the user.
