@@ -20,3 +20,6 @@ There is also a pauze() function, that divides a delay into very small delays of
 
 Currently, the code starts with a dim white light. When the user wants to connect with bluetooth, a blue sonar effect starts. If the bluetoothconnection was successfull, a green pulse starts. 
 Now we enter the loop(). It starts off with a dim white light, whilst waiting for a message from Protopie. As soon as the message with the tracker location has been received, the next animation starts. This animation points towards the received location.
+
+
+![image](https://github.com/wibeel/B-Hive-code/assets/125655641/abb796a9-62f0-4561-91aa-dab66c60314b)
