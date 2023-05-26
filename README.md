@@ -1,6 +1,7 @@
 # B-Hive-code
 
-**COMBINED**
+**COMBINED.INO**
+
 This is the Arduino code for the B-Hive prototype. The code is used to animate the 2 circular ledstrips. Each ledstrip has 33 leds.
 There is also a part to connect with ProtoPie
 
@@ -27,3 +28,8 @@ Now we enter the loop(). It starts off with a dim white light, whilst waiting fo
 
 
 **PROTOPIE** 
+test controle.pie
+This is the control app used to send commands to the B-Hive and the app.
+
+b-hive nieuw.pie
+This is the actual app, to be opened on the phone of the user.
