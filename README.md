@@ -1,5 +1,6 @@
 # B-Hive-code
 
+**COMBINED**
 This is the Arduino code for the B-Hive prototype. The code is used to animate the 2 circular ledstrips. Each ledstrip has 33 leds.
 There is also a part to connect with ProtoPie
 
@@ -23,3 +24,6 @@ Now we enter the loop(). It starts off with a dim white light, whilst waiting fo
 
 
 ![image](https://github.com/wibeel/B-Hive-code/assets/125655641/abb796a9-62f0-4561-91aa-dab66c60314b)
+
+
+**PROTOPIE** 
